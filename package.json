@@ -1,0 +1,17 @@
+{
+  "name": "samba-haiku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^1.3.0",
+    "fsevents": "^1.2.2",
+    "nbonjour": "^3.6.1",
+    "node-smb-server": "^0.10.35"
+  }
+}
